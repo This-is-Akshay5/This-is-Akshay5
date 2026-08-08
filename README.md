@@ -1,4 +1,4 @@
-YOUR NAME
+Akshay Prabakar
 
 <div align="center">
 
@@ -22,7 +22,7 @@ BUILDING • SECURING • AUTOMATING • LEARNING
 
 <img align="right" width="330" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" />
 
-I'm YOUR NAME, a YOUR ROLE focused on building practical products at the intersection of cybersecurity, artificial intelligence and software engineering.
+I'm Akshay Prabakar, a YOUR ROLE focused on building practical products at the intersection of cybersecurity, artificial intelligence and software engineering.
 
 I enjoy taking an idea from a rough concept to a working system — designing the architecture, building the product, integrating AI, securing the application and continuously improving the experience.
 
