@@ -27,10 +27,10 @@ Beyond cybersecurity, I enjoy working with AI and full-stack technologies, espec
 | Project | What it does | Stack |
 |---|---|---|
 | **[WiFiSentinel](https://github.com/This-is-Akshay5/WiFi-Sentinel)** | A desktop-based Wi-Fi security assessment simulator with a Python backend and interactive web interface. Includes network discovery, connected-device identification, reconnaissance, and simulated security testing workflows. Designed with a separate integration path for authorized Kali Linux tools. | Python, JavaScript, HTML, CSS, PyWebView |
-| **[AIB Shield](https://github.com/This-is-Akshay5/REPO-NAME)** | An AI and blockchain-based network intrusion prevention system that combines machine learning-based threat detection with blockchain-backed attack logging. Also includes a Flask dashboard, email alerts, and VirusTotal IP lookups. | Python, scikit-learn, Solidity, Web3.py, Flask, SQLite |
-| **[EmotiCare AI](https://github.com/This-is-Akshay5/REPO-NAME)** | An emotional wellness companion featuring an interactive 3D avatar, morph-target lip synchronization, and voice interaction. Supports a demo mode without requiring API keys. | Next.js 14, TypeScript, Prisma, Three.js |
-| **[Grant Navigator](https://github.com/This-is-Akshay5/REPO-NAME)** | An AI-powered platform that helps Indian startup founders discover relevant grants and funding opportunities. Uses deterministic compliance checks alongside AI-generated recommendations and application drafts. | Node.js, Express, React, Vite, SQLite, JWT |
-| **[AirAware AI](https://github.com/This-is-Akshay5/REPO-NAME)** | An air quality advisory application focused on Chennai, using live environmental data to track PM2.5, PM10, NO₂, and AQI levels. | React, Open-Meteo API |
+| **[AIB Shield](https://github.com/This-is-Akshay5/aib-shield)** | An AI and blockchain-based network intrusion prevention system that combines machine learning-based threat detection with blockchain-backed attack logging. Also includes a Flask dashboard, email alerts, and VirusTotal IP lookups. | Python, scikit-learn, Solidity, Web3.py, Flask, SQLite |
+| **[EmotiCare AI](https://github.com/This-is-Akshay5/REPO-NAME)** | An emotional wellness companion featuring an interactive 3D avatar, morph-target lip synchronization, and voice interaction. | Next.js 14, TypeScript, Prisma, Three.js |
+| **[Grant Navigator](https://github.com/This-is-Akshay5/Grant-Navigator)** | An AI-powered platform that helps Indian startup founders discover relevant grants and funding opportunities. Uses deterministic compliance checks alongside AI-generated recommendations and application drafts. (Basic Prototype) | Node.js, Express, React, Vite, SQLite, JWT |
+| **[AirAware AI](https://github.com/This-is-Akshay5/AirAware-AI)** | An air quality advisory application focused on Chennai, using live environmental data to track PM2.5, PM10, NO₂, and AQI levels. | React, Open-Meteo API |
 
 ---
 
