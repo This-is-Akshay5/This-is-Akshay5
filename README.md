@@ -1,53 +1,69 @@
-<h1>Hello, This is Akshay Prabakar</h1>
-
-<p>A Cybersecurity undergraduate student who is very much interested in Red Teaming and CTF Competitions.</p>
-
-<h2>Tools I Use</h2>
-
-<p>
-<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>
-<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="42" height="42"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/></a>
-<a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="42" height="42"/></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42"/></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="42" height="42"/></a>
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="42" height="42"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="42" height="42"/></a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="42" height="42"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="42" height="42"/></a>
-<a href="https://www.kernel.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/></a>
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="42" height="42"/></a>
-</p>
-
-<h2>Where to find me</h2>
-
-<p>
-<a href="https://www.linkedin.com/in/akshay-prabakar-16a9aa327/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</p>
-
-<h2>GitHub Statistics</h2>
+<h1 align="center">Akshay Prabakar</h1>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=this-is-akshay5&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-is-akshay5&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  Cybersecurity undergrad building at the intersection of offensive security, AI, and full-stack engineering.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=this-is-akshay5&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-1f2328?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-1f2328?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+</p>
+
+---
+
+## About
+
+I'm a third-year B.Tech CSE (Cybersecurity) student at **Sathyabama Institute of Science and Technology**, Chennai, and I'm also pursuing the **BS in Data Science and Applications at IIT Madras**.
+
+My main interests are red teaming and CTF competitions. Alongside that, I build things that actually run: security tooling, AI products, and full-stack apps.
+
+- Certified LLM Security Professional
+- Google Gemini Student Ambassador
+- Technical Team Member, Microsoft Club at Sathyabama
+- Completed the Edunet Foundation / IBM internship (Agentic AI, Cybersecurity, Quantum Computing)
+
+---
+
+## Selected Work
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[AIB Shield](https://github.com/This-is-Akshay5/REPO-NAME)** | Intrusion prevention system that pairs an ML classifier with blockchain-backed logging. Flask dashboard, email alerts, VirusTotal IP lookups. | Python, scikit-learn, Solidity, Web3.py, Flask, SQLite |
+| **[EmotiCare AI](https://github.com/This-is-Akshay5/REPO-NAME)** | Emotional wellness companion with a 3D avatar (morph-target lip sync) and a voice pipeline. Runs in demo mode without API keys. | Next.js 14, TypeScript, Prisma, Three.js |
+| **[Grant Navigator](https://github.com/This-is-Akshay5/REPO-NAME)** | Finds grants and funding for Indian startups. Compliance guardrails are deterministic and kept separate from the LLM; nothing is auto-submitted. | Node.js, Express, React, Vite, SQLite, JWT |
+| **[AirAware AI](https://github.com/This-is-Akshay5/REPO-NAME)** | Chennai air quality advisory app with live PM2.5, PM10, NO₂ and AQI data from Open-Meteo. | React, Open-Meteo API |
+
+---
+
+## Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,py,js,ts&perline=14" alt="Languages"><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flask&perline=14" alt="Web"><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,prisma,firebase&perline=14" alt="Data"><br>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,aws,azure,gcp,arduino&perline=14" alt="Infra and tools"><br>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&perline=14" alt="ML">
+</p>
+
+**Security:** Kali Linux, Burp Suite, Nmap, Wireshark, Metasploit
+
+---
+
+## Currently
+
+- Sharpening web and binary exploitation through CTFs
+- Researching LLM security and agentic AI threat models
+- Working through the IIT Madras Data Science curriculum
+
+---
+
+## Beyond the Code
+
+I run community work on campus: Google Student Ambassador content, tech events, and a Battle of Bands night I organized using Google's generative AI tools.
+
+---
+
+<p align="center">
+  <sub>Open to collaborations on security tooling, AI products, and CTF teams.</sub>
 </p>
