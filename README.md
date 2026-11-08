@@ -1,4 +1,6 @@
+<p align="center">
 # Akshay Prabakar
+</p>
 
 <p align="center">
   Cybersecurity student interested in offensive security, AI, and building practical software.
@@ -69,7 +71,7 @@ Beyond cybersecurity, I enjoy working with AI and full-stack technologies, espec
 
 ## Beyond the Code
 
-I'm a **Google Student Ambassador**, representing Google's Gemini program on campus. I also enjoy organizing technical events, connecting with other students, and creating opportunities for people to explore new technologies.
+I'm a **Google Student Ambassador**, representing Google in campus. I also enjoy organizing technical events, connecting with other students, and creating opportunities for people to explore new technologies.
 
 ---
 
