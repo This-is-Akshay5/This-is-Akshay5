@@ -14,14 +14,11 @@
 
 ## About
 
-I'm a third-year B.Tech CSE (Cybersecurity) student at **Sathyabama Institute of Science and Technology**, Chennai, and I'm also pursuing the **BS in Data Science and Applications at IIT Madras**.
+I'm a third-year B.Tech CSE (Cybersecurity) student at **Sathyabama Institute of Science and Technology**, Chennai, and I'm also pursuing **BS in Data Science and Applications at IIT Madras**.
 
 My main interests are red teaming and CTF competitions. Alongside that, I build things that actually run: security tooling, AI products, and full-stack apps.
 
-- Certified LLM Security Professional
-- Google Gemini Student Ambassador
-- Technical Team Member, Microsoft Club at Sathyabama
-- Completed the Edunet Foundation / IBM internship (Agentic AI, Cybersecurity, Quantum Computing)
+
 
 ---
 
@@ -53,15 +50,13 @@ My main interests are red teaming and CTF competitions. Alongside that, I build 
 ## Currently
 
 - Sharpening web and binary exploitation through CTFs
-- Researching LLM security and agentic AI threat models
-- Working through the IIT Madras Data Science curriculum
+- Researching Agentic AI threat models
 
 ---
 
 ## Beyond the Code
 
-I run community work on campus: Google Student Ambassador content, tech events, and a Battle of Bands night I organized using Google's generative AI tools.
-
+I am an official Google Student Ambassador representing Google in my campus and also I conduct alot of tech events.
 ---
 
 <p align="center">
