@@ -1,6 +1,4 @@
-<p align="center">
-# Akshay Prabakar
-</p>
+<h1 align="center"><strong>Akshay Prabakar</strong></h1>
 
 <p align="center">
   Cybersecurity student interested in offensive security, AI, and building practical software.
