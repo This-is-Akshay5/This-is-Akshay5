@@ -20,7 +20,7 @@ My main interests are red teaming and CTF competitions. Alongside that, I build 
 
 ---
 
-## Works
+## Selected Work
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -50,6 +50,18 @@ My main interests are red teaming and CTF competitions. Alongside that, I build 
 
 - Sharpening web and binary exploitation through CTFs
 - Researching Agentic AI threat models
+
+---
+
+## Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/This-is-Akshay5/This-is-Akshay5/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/This-is-Akshay5/This-is-Akshay5/output/github-snake.svg">
+    <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/This-is-Akshay5/This-is-Akshay5/output/github-snake-dark.svg">
+  </picture>
+</p>
 
 ---
 
