@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/akshay-prabakar-16a9aa327"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/akshay-prabakar-16a9aa327"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:i.am.akshayprabakar@gmail.com"><img src="https://img.shields.io/badge/Email-1f2328?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-1f2328?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
@@ -14,18 +14,17 @@
 
 ## About
 
-I'm a third-year B.Tech CSE (Cybersecurity) student at **Sathyabama Institute of Science and Technology**, Chennai, and I'm also pursuing **BS in Data Science and Applications at IIT Madras**.
+I'm a third-year B.Tech CSE (Cybersecurity) student at **Sathyabama Institute of Science and Technology**, Chennai, and I'm also pursuing the **BS in Data Science and Applications at IIT Madras**.
 
 My main interests are red teaming and CTF competitions. Alongside that, I build things that actually run: security tooling, AI products, and full-stack apps.
 
-
-
 ---
 
-## Selected Work
+## Works
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[WiFiSentinel](https://github.com/This-is-Akshay5/WiFi-Sentinel)** | Desktop Wi-Fi security assessment simulator with a Python backend and interactive web interface. Covers network discovery, connected-device identification, reconnaissance, and simulated attack workflows. A Kali Linux connector for real tools is planned. | Python, JavaScript, HTML, CSS, PyWebView |
 | **[AIB Shield](https://github.com/This-is-Akshay5/REPO-NAME)** | Intrusion prevention system that pairs an ML classifier with blockchain-backed logging. Flask dashboard, email alerts, VirusTotal IP lookups. | Python, scikit-learn, Solidity, Web3.py, Flask, SQLite |
 | **[EmotiCare AI](https://github.com/This-is-Akshay5/REPO-NAME)** | Emotional wellness companion with a 3D avatar (morph-target lip sync) and a voice pipeline. Runs in demo mode without API keys. | Next.js 14, TypeScript, Prisma, Three.js |
 | **[Grant Navigator](https://github.com/This-is-Akshay5/REPO-NAME)** | Finds grants and funding for Indian startups. Compliance guardrails are deterministic and kept separate from the LLM; nothing is auto-submitted. | Node.js, Express, React, Vite, SQLite, JWT |
@@ -56,7 +55,8 @@ My main interests are red teaming and CTF competitions. Alongside that, I build 
 
 ## Beyond the Code
 
-I am an official Google Student Ambassador representing Google in my campus and also I conduct alot of tech events.
+I'm an official Google Student Ambassador representing Google on my campus, and I run a lot of tech events.
+
 ---
 
 <p align="center">
