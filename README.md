@@ -20,7 +20,7 @@ My main interests are red teaming and CTF competitions. Alongside that, I build 
 
 ---
 
-## Selected Work
+## Works
 
 | Project | What it does | Stack |
 |---|---|---|
